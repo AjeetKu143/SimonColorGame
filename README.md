@@ -1,4 +1,5 @@
 # Simon Color Game
+[![Demo](https://img.shields.io/badge/Demo-SimonColorGame-blue)](https://ajeetku143.github.io/SimonColorGame/)
 
 ## Overview
 
